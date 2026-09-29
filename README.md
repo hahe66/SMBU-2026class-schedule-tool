@@ -1,1 +1,9 @@
-# SMBU-2026class-schedule-tool
+# 深北莫计协入会考核：课表空闲时段计算工具
+##项目简介
+本项目是深圳北理莫斯科大学计算机协会入会考核作业
+目前已完成要求一
+##AI使用情况
+本项目由我独立使用Python编写，在开发中运用了WorkBuddy
+1.使用AI生成读取CSV、排序、格式化打印的Python基础代码
+2.过程中遇到Windows PATH冲突问题，通过AI诊断，用'py main.py'绕过了微软商店占位符
+3.运用了deep seek，学会了在GitHub上传文件、合并PR
